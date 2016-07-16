@@ -1,0 +1,5 @@
+{
+  "lambda_arn": "arn:aws:lambda:us-west-2:413403144303:function:cardbot", 
+  "app_name": "cardbot", 
+  "stage": "dev"
+}
